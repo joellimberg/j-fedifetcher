@@ -1,0 +1,12 @@
+{
+  "server": "msgs.ee",
+  "home-timeline-length": 200,
+  "max-followings": 10,
+  "max-followers": 50,
+  "max-bookmarks": 10,
+  "from-notifications": 1,
+  "max-favourites": 10,
+  "http-timeout": 6,
+  "backfill-with-context": 0,
+  "backfill-mentioned-users": 0
+}
